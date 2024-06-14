@@ -21,6 +21,14 @@ h1 {
   margin-bottom: 20px;
 }
 
+.letter {
+  display: inline-block;
+  width: 20px;
+  border-bottom: 1px solid black;
+  text-align: center;
+  margin-right: 10px;
+}
+
 #hangman-drawing {
   margin-bottom: 20px;
 }
